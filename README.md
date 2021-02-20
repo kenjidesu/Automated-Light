@@ -1,4 +1,4 @@
-# Automated-Light
+# Light Pls
 An Automated Light that is controlled by remote and receive by the IR receiver sensor that is sent to a microcontroller to communicate with the servo.
 
 ## Goal:
