@@ -1,11 +1,11 @@
 # Light Pls
-An Automated Light that is controlled by remote and receive by the IR receiver sensor that is sent to a microcontroller to communicate with the servo.
+A SIMPLE Automated Light that is controlled by remote and receive by the IR receiver sensor that is sent to a microcontroller to communicate with the servo.
 
 ## Goal:
-- Less than 13 USD (600 PHP) - Achieved, total price PHP 550 (USD 12)
-- Simple enough that anyone can understand it - Achieved, i guess
-- One servo only - Achieved
-- Useful - Achieved
+- Less than 13 USD (600 PHP) - ACHIEVED, total price PHP 550 (USD 12)
+- Simple enough that anyone can understand it - ACHIEVED, i guess
+- One servo only - ACHIEVED
+- Useful - ACHIEVED
 
 ## Hardware Used:
 - Arduino Nano (clone)
