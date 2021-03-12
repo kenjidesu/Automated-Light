@@ -24,17 +24,17 @@ void loop(){
 
         switch(results.value){
           case 0xFFA25D:
-          Serial.println("OFF");
-          servo1.write(70);
-          delay(2000);
-          servo1.write(90);
-          break;
+            Serial.println("OFF");
+            servo1.write(70);
+            delay(2000);
+            servo1.write(90);
+            break;
           case 0xFF629D:
-          Serial.println("ON");
-          servo1.write(110);
-          delay(2000);
-          servo1.write(90);
-          break;
+            Serial.println("ON");
+            servo1.write(110);
+            delay(2000);
+            servo1.write(90);
+            break;
         }
         key_value = results.value;
         irrecv.resume(); 
