@@ -1,5 +1,5 @@
 # Lights Pls
-![Lights Pls](https://github.com/kenjidesu/Lights-Pls/blob/main/images/lights%20pls.jpg)
+![Lights Pls](https://github.com/kenjidesu/Lights-Pls/blob/main/ligths%20pls.jpg)
 A SIMPLE Automated Light that is controlled by remote and receive by the IR receiver sensor that is sent to a microcontroller to communicate with the servo.
 
 ## How it works:
